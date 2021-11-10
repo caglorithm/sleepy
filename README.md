@@ -127,3 +127,8 @@ The `sleepy` GUI supports the following keyboard-shortcuts:
 * ```Ctrl+P / ⌘+P``` or the ```Up``` key to tag the selected event in the tagging environment
 * ```A``` for navigating backwards through channels and ```D``` for navigating forward through channels.
 * ```Ctrl+Q``` to open the settings on Windows and ```⌘+,``` on Mac
+
+
+## Acknowledgements
+
+* Most coding of the core of sleepy was done by [pupuis](https://github.com/pupuis/sleepy) who no longer works on this project. This repo represents a more up-to-date fork of the original one.
