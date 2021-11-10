@@ -1,0 +1,3 @@
+
+class UserEventExists(Exception):
+    pass

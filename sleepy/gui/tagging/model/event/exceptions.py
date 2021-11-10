@@ -1,0 +1,3 @@
+
+class EventTypeNotSupported(Exception):
+    pass
