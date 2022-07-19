@@ -1,0 +1,8 @@
+The sample data provided is a subset of the data available here:
+
+Cox R & Fell J (2020) Analyzing human sleep EEG: A methodological primer with code implementation, Sleep Medicine Reviews. https://doi.org/10.1016/j.smrv.2020.101353
+
+
+This data serves for testing the tool and will be replaced with the data on which the current algorithms were trained and tested pending the approval of the local ethics committee at the Universitätsmedizin Greifswald.
+
+The data needs to be uncompressed before usage.
