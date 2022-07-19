@@ -30,7 +30,7 @@ From here on, starting the `sleepy` GUI program is as easy as running the off-th
 script, which is provided in the top-level-folder of `sleepy`.
 
 ```
-python ots.py
+python sleepygui.py
 ```
 
 ## Quickstart GUI
