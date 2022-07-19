@@ -2,3 +2,7 @@ numpy
 PyQt5
 matplotlib
 scipy
+keras
+scikit-learn
+scipy
+pywt
