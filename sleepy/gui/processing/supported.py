@@ -1,4 +1,4 @@
-from sleepy.processing.algorithms import Massimi, Walkthrough, Relative, Percentile, Custom
+from sleepy.processing.algorithms import Massimi, Walkthrough, Relative, Percentile, BiLSTM, RandomForest, Custom
 from sleepy.processing.filters import BandPassFilter
 from sleepy.processing.mat.core import MatDataset
 
@@ -7,6 +7,8 @@ SUPPORTED_ALGORITHMS = [
     #Walkthrough,
     Relative,
     Percentile,
+    BiLSTM,
+    RandomForest,
     Custom
 ]
 
