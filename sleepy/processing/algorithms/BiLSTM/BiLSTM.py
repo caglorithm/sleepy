@@ -16,7 +16,7 @@ class BiLSTM(Algorithm):
             # generate model
             from keras.models import Sequential
             from keras.layers import InputLayer, Bidirectional, LSTM, Dense, TimeDistributed, Flatten, Dropout, LeakyReLU
-            from keras.optimizers import Adam
+            from tensorflow.keras.optimizers import Adam
     
             model = Sequential()
             model.add(InputLayer(input_shape=(126, 1)))
