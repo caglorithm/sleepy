@@ -6,3 +6,4 @@ keras
 scikit-learn
 scipy
 pywt
+matplotlib==3.3.1
