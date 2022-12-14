@@ -18,7 +18,7 @@ class BandPassFilter(Filter):
         self.highCutFrequency = Parameter(
             title = "High cut-off frequency in Hz",
             fieldType = float,
-            default = 4.0
+            default = 1.25
         )
 
         self.order = Parameter(
