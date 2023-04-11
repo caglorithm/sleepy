@@ -1,9 +1,8 @@
 numpy
 PyQt5
-matplotlib
 scipy
 keras
 scikit-learn
 scipy
-pywt
+pywavelets
 matplotlib==3.3.1
