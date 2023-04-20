@@ -144,7 +144,7 @@ class Event:
 
         axis.set(
             xticks = np.arange(*self.absoluteLimits, tickFrequency) / self.samplingRate,
-            xticklabels = np.arange(*self.absoluteLimits, 1) / self.samplingRate
+            xticklabels = np.arange(*self.absoluteLimits, tickFrequency) / self.samplingRate
         )
 
         axis.xaxis.set_major_formatter(
