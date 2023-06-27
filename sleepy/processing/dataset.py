@@ -24,7 +24,7 @@ class Dataset:
 
         self.path = path
 
-        self.samplingRate = 500
+        #self.samplingRate = 500
 
         self.changesMade = False
 
