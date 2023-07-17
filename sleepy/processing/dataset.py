@@ -25,6 +25,7 @@ class Dataset:
         self.path = path
 
         #self.samplingRate = 500
+        assert self.samplingRate, "Sampling rate is not set"
 
         self.changesMade = False
 
